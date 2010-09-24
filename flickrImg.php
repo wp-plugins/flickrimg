@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: flickrImg
-	Plugin URI: http://http://www.murraypicton.com/plugins/flickrimg
+	Plugin URI: http://www.murraypicton.com/plugins/flickrimg
 	Description: Put a random flickr image for a specified user as the main image for each post
 	Version: 1.0
 	Author: Murray Picton
